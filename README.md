@@ -1,5 +1,12 @@
 # catboys-space
 
+The frontend for catboys.space 
+
+For the backend head over to [here](https://github.com/catboys-space/backend).
+
+This is still under construction, but will use vue in the future!
+
+
 ## Project setup
 ```
 npm install
@@ -19,6 +26,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
